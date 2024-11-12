@@ -1,0 +1,3 @@
+Nel secondo round affronteremo qualcosa che degli harper hanno catturato nell’underdark, qualcosa di molto pericoloso, ho sbirciato nella gabbia ma non so bene cosa ho visto: un agglomerato rosso che ribolliva. È qualcosa a cui ha pensato l’enclave di Smeraldo. Ne ho parlato con Orsux quando mi faceva le armi (ha sentito che gli elfi oscuri creano robe schifose: in questo caso ti sembra sia un **ooz**, conglomerato di qualcosa).
+
+Terzo round: ho sentito parole in **Gigante da una gabbia** (lasciatemi uscire): ho sentito puzza di qualcosa di malvagio (fiend, undead… per devine sense).
