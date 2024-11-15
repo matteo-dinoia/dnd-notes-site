@@ -6,12 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
-  footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
-  }),
+  footer: Component.Footer(),
 }
 
 // components for pages that display a single page (e.g. a single note)
@@ -20,18 +15,32 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.TagList(),
+    //Component.TagList(),
   ],
   left: [
     Component.PageTitle(),
+    //Component.Darkmode(),
     Component.MobileOnly(Component.Spacer()),
+
     Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+
+    Component.DesktopOnly(Component.Explorer({
+      folderDefaultState: "open",
+    })),
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+      localGraph: {
+        scale: 0.9,
+        depth: -1,
+      },
+      globalGraph: {
+        repelForce: 1,
+        linkDistance: 50,
+      }
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
+    //Component.MobileOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
 }
@@ -43,7 +52,6 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
