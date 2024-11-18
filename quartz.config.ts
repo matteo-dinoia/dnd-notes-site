@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    ignorePatterns: [".obsidian"],
+    ignorePatterns: [".obsidian", "niko"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {

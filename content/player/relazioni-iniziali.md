@@ -16,39 +16,3 @@ Guarda anche [[player-lista.md]]
 N.B.: Il personaggio di Orsini è molto schivo, non si fa vedere molto. PERÒ, al quanto pare, ora è interessato a farsi vedere in giro, cioè amo deciditi: o famoso o fabbro astemio (scherzo tvb baby). Nessuno lo conosce approfonditamente, solo di vista.
 
 L’encounter di Orsux e Matteo è molto strano: Matteo vede solo di sfuggita il nano di orsini (non sapendo sia lui però) mentre il personaggio di Orsini vede tipo tantissimo quello di Matteo (gli ha visto le orecchie). Il personaggio di Matteo non ne ha fatto parola a nessuno, il personaggio di Orsini si fa letteralmente i beneamati cazzi suoi e si tiene i suoi sacrosanti segreti.
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  

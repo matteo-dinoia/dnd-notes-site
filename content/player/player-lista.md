@@ -1,14 +1,18 @@
 # Lista giocatori
-* Personaggio di **Federico**: (Race?) Blood Hunter of the Mutant Order
+* Personaggio di **Federico**: Lucifer - Elf Blood Hunter
 
-* Personaggio di **Guglielmo**: (Race?) Bard of the College of (Eloquence or Lore?)
+* Personaggio di **Guglielmo**: Lady Maria Alexander - Human Bard
 
-* Personaggio di **Lorenzo**: Dwarf Cleric of the Forge Domain
+![[Maria.jpg]]
+
+* Personaggio di **Lorenzo**: Bearhawk - Dwarf Cleric
 ![[../img/player/Bearhawk.jpg]]
-* Personaggio di **Matteo**: Harengon (Rabbit-folk) Rogue, Arcane Trickster
+* Personaggio di **Matteo**: Niko Banni Bho, Harengon (Rabbit-folk) Rogue
 
 ![[../img/player/Niko.jpg]]
 
-* Personaggio di **Pietro**: Half-Elf Paladin with the Oath of Glory
+* Personaggio di **Pietro**: Yago Swanaleya, "Terror"- Half-Elf Paladin
 
-* Personaggio di **Valerio**: Warforged Paladin (with the Oath of the Ancients?)
+* Personaggio di **Valerio**: Ed Calanker - Warforged Paladin
+
+* Personaggio di **Leonardo**: Romenor Wildream - Warforged Fighter/Cleric
