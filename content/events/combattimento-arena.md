@@ -30,7 +30,7 @@ Terzo round: ho sentito parole in **Gigante da una gabbia** (lasciatemi uscire):
 ### Ed
 * Si sveglia con Bobby che disegna con il pennarello alchemico. Bobby spinto a farlo da gilda dei bully, Vlad("Odia il posto e vuole solo andarsene") e Michi. Michi mena Vlad e ora è il nuovo capo.
 * L'altra lavoratrice, ha una missione da compiere. Voleva **cercare un changling**.
-* Va da Ted, nuovo, bullizzato da Vlad..Lo lascia con uno spell di carisma.
+* Va da Ted, nuovo, bullizzato da Vlad. Lo lascia con uno spell di carisma.
 
 ### Yago, "Terror"
 * Durante un sogno vede tre porte: dietro smeraldo, sinistra rubino, destra oro. Raggiunge la porta dorata, la apre e sente un fiato sul collo. Inoltre vede un drago dorato che gli dice **"non sei ancora pronto, torna quando lo sarai".**
@@ -42,4 +42,22 @@ Terzo round: ho sentito parole in **Gigante da una gabbia** (lasciatemi uscire):
 * **NIKO**: Vedo Nirlem arrivare. Ha gli occhi aumentati dalla magia (incantesimi di divinazione). 
 * Arthur e Nirlem vanno al parco d'onore.
 
+# Sessione 2
+## Durante il rest
+1. Terror viene visitato da Splendor che lo cura
+2. Ed viene visitato dall'elfa Marisa dell'orfanotrofio che parla con Maria.
+3. L'armatura vivente Romenor si aggiunge alla discussione e spiega del suo passato e le sue due volte di morte. Ha avuto chiama da #### (nome censurato). 
+4. **NIKO**: Noto fermento alla porta sud e trovo traccie rosse gocce di sostanze gelatinosa rossa. Melva rossa (ooze), attirato in qualche modo (modificando menti altrui in qualche modo).
 
+## Dopo il combattimento
+1. Ed va dove ci sono i warforged e vede dei droni
+2. Rasley intimidisce Bearhawk
+3. Lucifer litiga con la sua "amica"
+4. Maria va a fare connessioni (scorte intaccate)
+5. **Niko**: va a fare shopping e noi vediamo rabbit-folk che fa il prestigiatore. Sparisce nel cappello e mi fa anche sparire a me.
+6. Romenor viene minacciato da Marisa.
+7. Terror va a bere in una locanda vuota, e Splendor si unisce.
+8. Ed torna all'orfanotrofio e gli da libro per combattimento.
+9. **Niko**: scopro che c'è un changling e uno con un anello per cambiarsi.
+
+Drago atterra nel castello reale e cavaliere che estrae la spada. Drago sputa fuoco.
