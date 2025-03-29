@@ -8,7 +8,7 @@ Pagine di interesse:
 
 ## Eventi
 0. [[player/relazioni-iniziali.md]]
-1. [[events/combattimento-arena.md]]
-2. [[events/fuga]]
+1. [[01-combattimento-arena]]
+2. [[events/02-fuga]]
 ## Altro
 * [[meta/buff-and-nerf.md]]

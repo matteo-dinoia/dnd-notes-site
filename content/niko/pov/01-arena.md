@@ -1,4 +1,4 @@
-# First sessions
+# Prime sessioni
 ## Incontro con un nano
 Durante un investigazione, la persona che sto seguendo viene uccisa brutalmente dal **martello** di un nano che non riconosco con i **capelli chiari**. Sono abbastanza sicuro che mi abbia visto le orecchie, perché per ansia non sono riuscito a nascondermi bene, mi manca ancora tanta esperienza. Per fortuna se ne è andato via. Sono dunque andato a riferirlo immediatamente a Nirlem.
 

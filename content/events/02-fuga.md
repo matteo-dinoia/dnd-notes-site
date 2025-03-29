@@ -13,3 +13,6 @@ Andiamo verso east.
 **Niko**: Ragazza con i capelli a trecce, umana che mi riporta in vita con lacrime.
 
 Riusciamo a scappare nella campagna. Lady Maria è arrabbiata.
+
+## Continuazione
+Possiamo andare a sud-ovest attraversando il ponte verso: Spartire, OldWood (da dove arriva Ed) o Palechaster (posto strategico dal punto di vista di forze ma dove Bearhawk non può entrare).

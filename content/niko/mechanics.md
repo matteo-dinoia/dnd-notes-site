@@ -2,7 +2,7 @@
 Don't die. There is more to do, think. Revise before a play.
 1. Owl
 2. **bonus action**:
-	1. dash
+	1. dash (can dash twice but movement != speed)
 	2. [ + ] disengage / rabbit hop
 	3. [ s ] hide 
 	4. [ re ] control hands
